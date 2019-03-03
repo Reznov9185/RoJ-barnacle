@@ -5,8 +5,9 @@ gem "jets"
 
 # Include mysql2 gem if you are using ActiveRecord, remove if you are not
 gem "mysql2", "~> 0.5.2"
+gem 'dynamoid', '~> 3.1.0'
 
-gem "dynomite"
+# gem "dynomite"
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

@@ -10,3 +10,6 @@ bundled
 coverage
 pkg
 tmp
+config/initializers/database.yml
+db/schema.rb
+.idea
